@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: buddypress_user_registration_auto_group\n"
+"POT-Creation-Date: 2014-05-12 10:40+0600\n"
+"PO-Revision-Date: 2014-05-12 10:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\test_theme\\wp-content\\plugins"
+"\\buddypress-user-registration-auto-group\n"
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:12
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:13
+msgid "My Group"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:29
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:42
+msgid "Auto Group Setting"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:42
+msgid ""
+"(When new users sign up, a new group will be created with the following "
+"credentials. The new user will be the \"Group Admin\" of this group.)"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:47
+msgid "Auto Group Name"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:52
+msgid "Auto Group Description"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:57
+msgid "Auto Group Status"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:60
+msgid "Select"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:61
+msgid "public"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:62
+msgid "private"
+msgstr ""
+
+#: D:\wamp\www\test_theme\wp-content\plugins\buddypress-user-registration-auto-group/buddypress_user_registration_auto_group.php:122
+msgid "whatever"
+msgstr ""
